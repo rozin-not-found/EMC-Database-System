@@ -15,15 +15,15 @@ The database is engineered to handle several core business operations:
 The ERD maps the primary entities within the EMC business model and their appropriate relationships to ensure robust data integrity.
 <img width="944" height="1283" alt="image" src="https://github.com/user-attachments/assets/aa996760-c9c3-4982-b042-58e00fbd6e67" />
 
-For better visibility follow this link below: 
+For better visibility follow this link below: (Open with draw.io -> go to page-1)
 [https://drive.google.com/file/d/1AdG8LLvyPNKZu6sZqcGKtSch6_zYhKAQ/view?usp=sharing]
 
 ## Physical Relational Model
 The Physical Model demonstrates the exact table structures, primary keys, foreign keys, and data types mapped for deployment in a standard SQL environment.
 <img width="1136" height="892" alt="image" src="https://github.com/user-attachments/assets/cba353ff-9f18-441d-9e0a-c06a4c1c70fa" />
 
-For better visibility follow this link below:
-[[Insert Physical Model Image Here](https://drive.google.com/file/d/1AdG8LLvyPNKZu6sZqcGKtSch6_zYhKAQ/view?usp=sharing)]
+For better visibility follow this link below: (Open with draw.io -> go to page-2)
+[https://drive.google.com/file/d/1AdG8LLvyPNKZu6sZqcGKtSch6_zYhKAQ/view?usp=sharing]
 
 ## Database Schema
 The database consists of the following core tables structured to maintain referential integrity:
